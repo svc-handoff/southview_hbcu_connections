@@ -1,7 +1,7 @@
 /* Public, read-only Final Website tab. Never put Google credentials in this file. */
 window.SOUTHVIEW_CONTENT_CONFIG = {
-  csvUrl: 'https://docs.google.com/spreadsheets/d/1L8A5vvuU3bUk8sq8bk_3koTH5QejEJ-VgaYrUnA-HDo/gviz/tq?tqx=out:csv&headers=1&sheet=Final%20Website',
-  collegesCsvUrl: 'https://docs.google.com/spreadsheets/d/1L8A5vvuU3bUk8sq8bk_3koTH5QejEJ-VgaYrUnA-HDo/gviz/tq?tqx=out:csv&headers=1&sheet=Current%20HBCUS',
+  csvUrl: 'https://docs.google.com/spreadsheets/d/1TOMzB80l4xM3zURfPlPKMmgEOlWlL9IAMpsUaoH26iU/gviz/tq?tqx=out:csv&headers=1&gid=889242017',
+  collegesCsvUrl: 'https://docs.google.com/spreadsheets/d/1TOMzB80l4xM3zURfPlPKMmgEOlWlL9IAMpsUaoH26iU/gviz/tq?tqx=out:csv&headers=1&gid=224611224',
   yearBefore: 2026,
   // All profiles are maintained in the sheet; unchecked or deleted rows stay off the site.
   sheetOwnsProfiles: true,

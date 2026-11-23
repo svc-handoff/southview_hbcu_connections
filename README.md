@@ -7,8 +7,8 @@ Visitors can explore Morehouse College, Spelman College, Morris Brown College, M
 ## Key links
 
 - [Visit the website](https://southview-hbcu-connections.netlify.app/)
-- [Open the content spreadsheet](https://docs.google.com/spreadsheets/d/1L8A5vvuU3bUk8sq8bk_3koTH5QejEJ-VgaYrUnA-HDo/edit) — editing requires an authorized Google account.
-- [Add a Person form](https://docs.google.com/forms/d/e/1FAIpQLSdKrniEZMaU0MyBf-WwBQU4qLjea9jDq3xMqhyVrKjxc7lkYg/viewform)
+- [Open the content spreadsheet](https://docs.google.com/spreadsheets/d/1TOMzB80l4xM3zURfPlPKMmgEOlWlL9IAMpsUaoH26iU/edit) — editing requires an authorized Google account.
+- [Add a Person form](https://docs.google.com/forms/d/e/1FAIpQLSfdaMMfOkQGLaRTUvrt8w-tT9bgMDA6c-qmhYE9EGUUAnW6Pw/viewform)
 - [Instruction Guide](https://docs.google.com/document/d/1zNDXFRtRPD7p-IyUtC-XdgvXmG_AUJtah_wV5csTllI/edit?tab=t.0#heading=h.hxyu0ehoxj8k)
 
 ## Managing content
